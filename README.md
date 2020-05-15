@@ -6,4 +6,4 @@ What can be better than a cup of coffee during a break? A coffee that you don’
 Hover over to this link to learn more about this project :
 https://hyperskill.org/projects/68?goal=391
 
-Part of the JetBrains Academy Python Developer track. Learn a language an interseting way by doing projects.
+Part of the JetBrains Academy Python Developer track. Learning a language an interseting way by doing projects.
